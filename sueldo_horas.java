@@ -16,7 +16,7 @@ class Main {
           numdias++;
       }
       System.out.println("Horas trabajadas en la semana: "+hortotal);
-      System.out.println("Sueldo pagado a "+nombre+" en la semana: "+(sueldo*hortotal)+"$")
+      System.out.println("Sueldo pagado a "+nombre+" en la semana: "+(sueldo*hortotal)+"$");
 
 
     }
